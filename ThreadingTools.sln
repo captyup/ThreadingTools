@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingTools", "ThreadingTools\ThreadingTools.csproj", "{008E03BC-1F54-4336-9389-CBC6473844FA}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 2
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = ThreadingTools\\ThreadingTools.csproj
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = ThreadingTools\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{008E03BC-1F54-4336-9389-CBC6473844FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{008E03BC-1F54-4336-9389-CBC6473844FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{008E03BC-1F54-4336-9389-CBC6473844FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{008E03BC-1F54-4336-9389-CBC6473844FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
